@@ -1,0 +1,1 @@
+Trying git squash withing same branch. Till now no new branch created.
