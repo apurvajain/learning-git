@@ -1,2 +1,4 @@
 Trying git squash withing same branch. Till now no new branch created.
 This is a smart & fast commit. Going to get merged into master soon even before its turn.
+Adding another line.
+Adding another line.
