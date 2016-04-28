@@ -1,1 +1,3 @@
 Trying git squash withing same branch. Till now no new branch created.
+Adding another line.
+Adding another line.
